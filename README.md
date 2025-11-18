@@ -27,7 +27,7 @@ bash eval.sh
 
 
 ## Data
-You should download the data for training & evaluation then untar the file at anywhere you prefer from activation beacon, e.g. `/data`:
+You should download the data for training & evaluation then untar the file at anywhere you prefer from dast, e.g. `/data`:
 ```bash
 # feel free to alternate /data to your prefered location
 wget https://huggingface.co/datasets/namespace-Pt/projects/resolve/main/long-llm.tar.gz?download=true -O /data/long-llm.tar.gz
